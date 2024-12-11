@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 1em;
+}
